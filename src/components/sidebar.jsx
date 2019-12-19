@@ -38,8 +38,7 @@ export default class Sidebar extends Component {
                       About
                     </a>
                   </li>
-                  {/*<li><a href="#" data-nav-section="projects">Projects</a></li>
-                  <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
+
                   <li>
                     <a href="#skills" data-nav-section="skills">
                       Skills
@@ -59,19 +58,11 @@ export default class Sidebar extends Component {
                 </ul>
               </div>
             </nav>
-            {/* <div className="text-center">
-              <span className="email">
-                <i className="icon-mail"></i>{" "}
-                <a href="mailto:jenniescwong@gmail.com">
-                  email: jenniescwong@gmail.com
-                </a>
-              </span>
-            </div> */}
+
             <nav id="colorlib-main-menu">
               <ul></ul>
             </nav>
             <div className="colorlib-footer">
-              {/* <div className="footer-icons"> */}
               <a
                 className="footer-icons"
                 href="https://www.linkedin.com/in/jennie-s-c-wong/"

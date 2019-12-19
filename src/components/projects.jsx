@@ -51,19 +51,8 @@ export default class Projects extends Component {
                               Math Addition Game built with JavaScript, jQuery,
                               HTML, CSS, and various third-party APIs.
                             </p>
-                            {/* <i className="icon-share3" /> */}
                           </a>
                         </span>
-                        {/* <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span> */}
                       </p>
                     </div>
                   </div>
@@ -105,19 +94,8 @@ export default class Projects extends Component {
                               (authentication), Mongoose, Express - Node.js
                               (back-end), using MVC framework.
                             </p>
-                            {/* <i className="icon-share3" /> */}
                           </a>
                         </span>
-                        {/* <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span> */}
                       </p>
                     </div>
                   </div>
@@ -152,19 +130,8 @@ export default class Projects extends Component {
                               (front-end), JWT (authentication) and MongoDB,
                               Express - Node.js (back-end), using MVC framework.
                             </p>
-                            {/* <i className="icon-share3" /> */}
                           </a>
                         </span>
-                        {/* <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span> */}
                       </p>
                     </div>
                   </div>
@@ -200,16 +167,6 @@ export default class Projects extends Component {
                             </p>
                           </a>
                         </span>
-                        {/* <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span> */}
                       </p>
                     </div>
                   </div>
@@ -247,66 +204,12 @@ export default class Projects extends Component {
                             </p>
                           </a>
                         </span>
-                        {/* <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span> */}
                       </p>
                     </div>
                   </div>
                 </div>
               </div>
-              {/* <div
-                className="col-md-4 animate-box"
-                data-animate-effect="fadeInRight"
-              >
-                <div
-                  className="project"
-                  style={{ backgroundImage: "url(images/img-6.jpg)" }}
-                >
-                  <div className="desc">
-                    <div className="con">
-                      <h3>
-                        <a href="work.html">Work 06</a>
-                      </h3>
-                      <span>Web Design</span>
-                      <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div> */}
             </div>
-            {/* <div className="row">
-              <div className="col-md-12 animate-box">
-                <p>
-                  <a href="#" className="btn btn-primary btn-lg btn-load-more">
-                    Load more <i className="icon-reload" />
-                  </a>
-                </p>
-              </div>
-            </div> */}
           </div>
         </section>
       </div>
