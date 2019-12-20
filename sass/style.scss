@@ -139,7 +139,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color: $brand-black;
+	color: $brand-white;
 	font-family: $font-secondary;
 	font-weight: 400;
 	margin: 0 0 30px 0;
@@ -423,7 +423,7 @@ figure {
 				h1, h2 {
 					margin: 0;
 					padding: 0;
-					color: rgba($brand-black,1);
+					color: rgba($brand-white,0);
 					font-family: $font-secondary;
 				}
 				h1 {
@@ -538,7 +538,7 @@ body {
 
 //COVER BG
 .author-img{
-	background-size: cover;
+	background-size: co;
 	background-position: center center;
 	background-repeat: no-repeat;
 	position: relative;
