@@ -114,13 +114,15 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="#">MediCal</a>
+                        <a href="http://medicalendar-app.surge.sh/auth">
+                          MediCal
+                        </a>
                       </h3>
                       <span>Full Stack Web App</span>
                       <p className="icon">
                         <span>
                           <a
-                            href="https://vacay-ai.surge.sh/"
+                            href="http://medicalendar-app.surge.sh/auth"
                             target="_blank"
                             rel="noopener noreferrer"
                           >
